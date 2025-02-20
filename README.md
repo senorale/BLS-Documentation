@@ -1,13 +1,4 @@
-# BLS-Documentation
-Documentation what I learned about engaging with the BLS API
-
-
-
-
-
-
-
-# BLS API Documentation for Occupational Employment Statistics (OES)
+# Documentation what I learned about engaging with the BLS API for Occupational Employment Statistics (OES)
 
 ## Table of Contents
 1. Basic Request Structure
