@@ -34,7 +34,6 @@ Example: `OESN06000000000291141`
 ### Position Breakdown:
 1. **Program Code** (Positions 1-2)
    - `OE` = Occupational Employment Statistics
-   - Source: https://www.bls.gov/developers/home.htm
 
 2. **Geographic Level** (Position 3)
    - `U` = United States (National)
@@ -93,8 +92,8 @@ Source: https://www.bls.gov/respondents/mwr/electronic-data-interchange/appendix
 ```
 
 ## 5. Occupation Codes (SOC)
-Source: https://www.bls.gov/soc/2018/major_groups.htm
 You can view the specific codes within the larger category by clicking on the category name.
+Source: https://www.bls.gov/soc/2018/major_groups.htm
 
 Major Groups:
 ```
