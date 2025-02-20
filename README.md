@@ -1,9 +1,6 @@
 # BLS API for Occupational Employment Statistics (OES) Documentation
 
-## Note: This is based on my own experience from trying to understand what I consider to be a poorly documented API. 
-## My goal is to help out any person who is thinking about using this API but is concerned about this statement made by the BLS
-### “The BLS Public Data API requires users to know the series ID to request data. We do not currently have a catalogue of series IDs, but all BLS series IDs follow a similar format.” 
-
+### Note: This is based on my own experience from trying to understand what I consider to be a poorly documented API. My goal is to help out any person who is thinking about using this API but is concerned about this statement made by the BLS: “The BLS Public Data API requires users to know the series ID to request data. We do not currently have a catalogue of series IDs, but all BLS series IDs follow a similar format.” I think what I put together below is enough to get someone going.
 
 
 ## Table of Contents
@@ -92,6 +89,7 @@ Source: https://www.bls.gov/respondents/mwr/electronic-data-interchange/appendix
 
 ## 5. Occupation Codes (SOC)
 Source: https://www.bls.gov/soc/2018/major_groups.htm
+You can view the specific codes within the larger category by clicking on the category name.
 
 Major Groups:
 ```
@@ -125,7 +123,6 @@ Known codes from testing:
 01 = Employment count
 03 = Hourly mean wage
 13 = Annual mean wage
-04 = (needs verification)
 ```
 
 ## 7. Example Requests
