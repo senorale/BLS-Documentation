@@ -1,5 +1,9 @@
 # Documentation what I learned about engaging with the BLS API for Occupational Employment Statistics (OES)
 
+## For any other person wanting to engange with the The BLS Public Data API but has come across this: “The BLS Public Data API requires users to know the series ID to request data. We do not currently have a catalogue of series IDs, but all BLS series IDs follow a similar format.” This is what I have scrapped together
+
+
+
 ## Table of Contents
 1. Basic Request Structure
 2. Series ID Format
